@@ -5,4 +5,6 @@
   
 ____
   
-<p align="center"> <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://github.com/rickjosee/rickjosee/blob/output/github-contribution-grid-snake.svg"/> </p>
+<p align="center"> <img src="https://github.com/rickjosee/rickjosee/blob/output/github-contribution-grid-snake.svg"/> </p>
+
+<p align="center">  <img src="https://skillicons.dev/icons?i=js,nodejs,heroku,mongodb,git,github"> </p>
