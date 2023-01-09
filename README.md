@@ -19,6 +19,8 @@ ____
 
 </p>
 
+<p align="center"> <img src="https://github.com/rickjosee/rickjosee/blob/output/github-contribution-grid-snake.svg"/>
+
 <p align="center"> 
   
 <a href="https://dsc.gg/sawari">
