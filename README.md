@@ -8,7 +8,7 @@
   
 ____
   
-<p align="center"> <img src="https://github.com/rickjosee/rickjosee/blob/output/github-contribution-grid-snake.svg"/> </p>
+ </p>
 
 <p align="center"> 
 
@@ -23,6 +23,6 @@ ____
   
 <a href="https://dsc.gg/sawari">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-
+  
 </a>
 </p>
